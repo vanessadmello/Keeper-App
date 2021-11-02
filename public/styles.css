@@ -1,0 +1,49 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body{
+    margin: 0%;   
+}
+
+.header-bar {
+    background: #f5ba13;
+    width: 100%;
+    padding: 1%;
+    margin: 0%;
+    color: #FFF;
+    font-family: "McLaren", cursive;
+}
+
+.note {
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  width: 240px;
+  margin: 16px;
+  float: left;
+}
+.note h1 {
+  font-size: 1.1em;
+  margin-bottom: 6px;
+}
+.note p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+
+.last-div{
+    position: absolute;
+    bottom: 0%;
+    text-align: center;
+    width: 100%;
+}
+.copyright{
+     color: #ccc
+}
+
+
